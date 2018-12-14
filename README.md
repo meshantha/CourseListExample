@@ -1,13 +1,12 @@
 # CourseListExample
 
 # To do: 
-- need to implement a nice error dialogs for error handling and showing
+- need to implement a nice error dialogs for error showing
 - add shared elements animations to get more materialized look
 - optimize layouts (I haven’t removed values, they need to define in the dimen file, flattened view hierarchy)
 - may be remove databinding views and replace with Anko layouts (light weight and can be used efficiently with kotlin – I’m also experimenting them)
 - more material components could be added in order to make the app look materialistic 
-- I added Grid layout to make it more attractive, you could change the span to one, if it’s required
-Then we have a very long list. 
+- I added Grid layout to make it more attractive, you could change the span to one, if it’s required. 
 -	More test cases could be added, I have added few testing classes, and with provided architecture, it could be very easy to add more cases. 
 
 
