@@ -1,0 +1,5 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" translatable="false">UdacityCourses</string>
+    <string name="sub_name" translatable="false">Dynamo</string>
+    <string name="loading" translatable="false">loading</string>
+</resources>

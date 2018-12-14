@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/mobile_navigation"
+            app:startDestination="@id/courseListFragment">
+
+    <fragment android:id="@+id/courseListFragment"
+              android:name="com.kalum.dynamo.courses.ui.view.feature.list.CourseListFragment"
+              tools:layout="@layout/course_list_fragment">
+    </fragment>
+
+    <fragment android:id="@+id/courseDetailFragment"
+              android:name="com.kalum.dynamo.courses.ui.view.feature.detail.CourseDetailsFragment"
+              android:label="CourseDetailsFragment">
+    </fragment>
+</navigation>

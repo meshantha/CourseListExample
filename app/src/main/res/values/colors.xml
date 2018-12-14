@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f90476</color>
+    <color name="colorPrimaryDark">#292626</color>
+    <color name="colorAccent">#cf0b5a</color>
+    <color name="colorPrimaryLight">#B3E5FC</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="primary_text">#cccccc</color>
+    <color name="secondary_text">#727272</color>
+    <color name="green_text">#2fba4b</color>
+
+    <!--our detail accent colors -->
+    <color name="detail_accent_pane_background">#455a64</color>
+    <color name="detail_accent_label">#90A4AE</color>
+
+    <!-- the activated state color for a courses list item -->
+    <color name="activated">#E0E0E0</color>
+</resources>
