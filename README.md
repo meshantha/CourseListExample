@@ -1,7 +1,7 @@
 # CourseListExample
 
 # To do: 
-- need to implement a nice error dialogs for error showing
+- need to implement a nice error dialogs for error showing(if there is no connection or some timeout errors)
 - add shared elements animations to get more materialized look
 - optimize layouts (I haven’t removed values, they need to define in the dimen file, flattened view hierarchy)
 - may be remove databinding views and replace with Anko layouts (light weight and can be used efficiently with kotlin – I’m also experimenting them)
